@@ -1,0 +1,21 @@
+{
+   "sources" : [
+      {
+         "usage" : "toplevel",
+         "filename" : "chess.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "aa.bst"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "chess.bib"
+      }
+   ],
+   "spec_version" : 1,
+   "texlive_version" : "2025",
+   "process" : {
+      "compiler" : "pdflatex"
+   }
+}
