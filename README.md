@@ -8,7 +8,7 @@ Scientific papers on ArXiv can be difficult to read because of their smaller fon
 
 **Easy Reads** aims to solve this by editing the source LaTeX file and generating a new formatted output PDF file. This output file will have more pages than the original with larger font and figure sizes, making both the digital and printed versions of the paper more reader-friendly.  
 
-Note: This current beta version aims to edit only the fontsizes while future updates will have support for figures/tables and captions.
+**Note:** This current beta version aims to edit only the fontsizes while future updates will have support for figures/tables and captions.
 
 ## Usage
 
